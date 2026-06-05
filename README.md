@@ -80,13 +80,13 @@ http://localhost:8501
 
 This is an educational stochastic-modeling project. It does not simulate full robot dynamics, continuous physical motion, sensors, mapping, localization, or battery consumption. The objective is to provide a clear visual and mathematical demonstration of Markov chains in uncertain rescue navigation.
 
-## Autors
+## Authors
 
 Ana Mafalda Araújo do Carmo
 
 Filipe Wu
 
-Francisco Silva
+Francisco José Gomes da Silva 
 
 Rafaela Afonso Claro Pinto
 
